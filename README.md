@@ -2,6 +2,10 @@
 
 An interactive Power BI project for exploring Superstore sales, profit, product performance, regional distribution, trends, and customer behavior.
 
+## Project video
+
+[Watch the project video](https://drive.google.com/file/d/1PIvde0lD8oA7TtTx-owC_tewRcPyrMt6/view?usp=sharing)
+
 ## Project overview
 
 This project contains a three-page Power BI report built around the **`Sample - Superstore`** dataset. It brings key business measures and interactive visualizations together so users can explore performance from sales, product, regional, and customer perspectives.
